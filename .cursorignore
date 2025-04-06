@@ -1,0 +1,32 @@
+# Makes a best-effort attempt to exclude files from both AI features and indexing
+
+# Cursor
+.cursor/
+
+# Cursor Rules
+.cursor/rules/
+
+# Cursor Cache
+.cursor/cache/
+
+# Cursor Logs
+.cursor/logs/   
+
+# Cursor Extensions
+.cursor/extensions/
+
+# Cursor Settings
+.cursor/settings/   
+
+# Cursor AI
+.cursor/ai/
+
+# Cursor AI Cache
+.cursor/ai/cache/   
+
+# Cursor AI Logs
+.cursor/ai/logs/   
+
+# Cursor AI Output
+.cursor/ai/output/      
+
