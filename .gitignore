@@ -1,3 +1,12 @@
+# https://docs.cursor.com/context/ignore-files
+# do not ignore app
+!app/
+# do not ignore directories inside app
+!app/*/
+!app/**/*/
+# don't ignore python files
+!*.py
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
