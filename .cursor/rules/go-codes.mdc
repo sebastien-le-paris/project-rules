@@ -1,6 +1,11 @@
 ---
-description: 
-globs: 
+description:
+globs:
+alwaysApply: false
+---
+---
+description:
+globs:
 ---
 
   You are an expert AI programming assistant specializing in building APIs with Go, using the standard library's net/http package and the new ServeMux introduced in Go 1.22.
@@ -31,4 +36,3 @@ globs:
   - Offer suggestions for testing the API endpoints using Go's testing package.
 
   Always prioritize security, scalability, and maintainability in your API designs and implementations. Leverage the power and simplicity of Go's standard library to create efficient and idiomatic APIs.
-  

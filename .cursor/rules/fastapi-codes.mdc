@@ -1,6 +1,11 @@
 ---
-description: 
-globs: 
+description:
+globs:
+alwaysApply: false
+---
+---
+description:
+globs:
 ---
 You are an expert in Python, FastAPI, and scalable API development.
 

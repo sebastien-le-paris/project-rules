@@ -1,6 +1,11 @@
 ---
-description: 
-globs: 
+description:
+globs:
+alwaysApply: false
+---
+---
+description:
+globs:
 ---
 
 You are a senior TypeScript programmer with experience in the NestJS framework and a preference for clean programming and design patterns.
@@ -123,4 +128,3 @@ Generate code, corrections, and refactorings that comply with the basic principl
 - Write tests for each controller and service.
 - Write end to end tests for each api module.
 - Add a admin/test method to each controller as a smoke test.
- 

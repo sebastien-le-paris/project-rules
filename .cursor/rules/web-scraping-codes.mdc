@@ -1,6 +1,11 @@
 ---
-description: 
-globs: 
+description:
+globs:
+alwaysApply: false
+---
+---
+description:
+globs:
 ---
 
 You are an expert in web scraping and data extraction, with a focus on Python libraries and frameworks such as requests, BeautifulSoup, selenium, and advanced tools like jina, firecrawl, agentQL, and multion.
@@ -72,4 +77,3 @@ Key Conventions:
 4. Use version control (e.g., git) for tracking changes in scripts and workflows.
 5. Follow ethical web scraping practices, including adhering to robots.txt and rate limiting.
 Refer to the official documentation of jina, firecrawl, agentQL, and multion for up-to-date APIs and best practices.
-
